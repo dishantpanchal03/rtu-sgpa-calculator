@@ -1,4 +1,3 @@
-# [SGPA Calculator](https://praval791.github.io/RTU-SGPA-calc/)
 
 This is a simple web-based SGPA calculator designed for different semesters. It allows users to input their grades for each subject and calculates the SGPA based on predefined grade points and subject credits.
 
@@ -105,11 +104,11 @@ This is a simple web-based SGPA calculator designed for different semesters. It 
 ### 8th Semester
 
 - **Big Data Analytics:** 3 credits
+- **Disaster Management:** 3 credits
 - **Big Data Analytics Lab:** 2 credits
 - **Software Testing & Validation Lab:** 1 credit
 - **Project:** 7 credits
 - **Social Outreach, Discipline & Extracurricular Activities:** 0.5 credits
-- **Disaster Management:** 3 credits
 
 ## How to Use
 
